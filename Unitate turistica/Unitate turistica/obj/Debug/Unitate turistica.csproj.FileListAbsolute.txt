@@ -1,0 +1,12 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\bin\Debug\Unitate turistica.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\bin\Debug\Unitate turistica.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\bin\Debug\Unitate turistica.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate turistica.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate_turistica.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate turistica.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate turistica.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate turistica.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate turistica.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\bin\Debug\camere.txt
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate_turistica.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Unitate turistica\Unitate turistica\obj\Debug\Unitate_turistica.Form2.resources

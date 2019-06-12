@@ -1,0 +1,12 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\bin\Debug\Smartphones.txt
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\bin\Debug\Smartphones_producatori.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\bin\Debug\Smartphones_producatori.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\bin\Debug\Smartphones_producatori.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Smartphones_producatori\Smartphones_producatori\obj\Debug\Smartphones_producatori.Form2.resources

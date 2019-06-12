@@ -1,0 +1,11 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\bin\Debug\Cabinet medical.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\bin\Debug\Cabinet medical.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\bin\Debug\Cabinet medical.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet medical.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet_medical.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet_medical.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet medical.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet medical.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet medical.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet medical.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Cabinet medical\Cabinet medical\obj\Debug\Cabinet_medical.Form2.resources

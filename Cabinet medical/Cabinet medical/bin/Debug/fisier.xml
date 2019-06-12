@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Medici>
+  <Medic - 1>
+    <1, Ioana, 12.05.2019, 12:00 />
+    <2, Denisa, 15.05.2019, 11:30 />
+    <3, Andrei, 04.06.2019, 12:00 />
+  </Medic - 1>
+  <Medic - 2>
+    <5, Cristi, 17.06.2019, 16:30 />
+    <7, Ana, 25.06.2019, 10:30 />
+  </Medic - 2>
+  <Medic - 3>
+    <6, Teo, 23.06.2019, 11:30 />
+  </Medic - 3>
+  <Medic - 4 />
+</Medici>

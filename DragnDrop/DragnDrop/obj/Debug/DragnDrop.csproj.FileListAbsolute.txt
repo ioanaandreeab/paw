@@ -1,0 +1,10 @@
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.csprojAssemblyReference.cache
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.Form1.resources
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.Properties.Resources.resources
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.csproj.GenerateResource.cache
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.csproj.CoreCompileInputs.cache
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\bin\Debug\DragnDrop.exe.config
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\bin\Debug\DragnDrop.exe
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\bin\Debug\DragnDrop.pdb
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.exe
+C:\Users\ioana\source\repos\DragnDrop\DragnDrop\obj\Debug\DragnDrop.pdb

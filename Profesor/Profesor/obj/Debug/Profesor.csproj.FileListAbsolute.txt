@@ -1,0 +1,10 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\bin\Debug\Profesor.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\bin\Debug\Profesor.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\bin\Debug\Profesor.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Profesor\Profesor\obj\Debug\Profesor.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\bin\Debug\Parc auto.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\bin\Debug\Parc auto.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\bin\Debug\Parc auto.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc auto.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc_auto.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc_auto.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc auto.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc auto.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc auto.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc auto.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parc auto\Parc auto\obj\Debug\Parc_auto.Form2.resources

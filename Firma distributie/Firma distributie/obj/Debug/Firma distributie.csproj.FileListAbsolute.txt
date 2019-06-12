@@ -1,0 +1,13 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\bin\Debug\Firma distributie.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\bin\Debug\Firma distributie.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\bin\Debug\Firma distributie.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma distributie.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma_distributie.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma_distributie.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma distributie.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma distributie.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma distributie.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma distributie.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\bin\Debug\Furnizori.txt
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma_distributie.Form2.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Firma distributie\Firma distributie\obj\Debug\Firma_distributie.Form3.resources

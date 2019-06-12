@@ -1,0 +1,10 @@
+C:\Users\ioana\source\repos\Clipboard\Clipboard\bin\Debug\Clipboard.exe.config
+C:\Users\ioana\source\repos\Clipboard\Clipboard\bin\Debug\Clipboard.exe
+C:\Users\ioana\source\repos\Clipboard\Clipboard\bin\Debug\Clipboard.pdb
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csprojAssemblyReference.cache
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.Form1.resources
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.Properties.Resources.resources
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csproj.GenerateResource.cache
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csproj.CoreCompileInputs.cache
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.exe
+C:\Users\ioana\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.pdb

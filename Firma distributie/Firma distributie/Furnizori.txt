@@ -1,0 +1,6 @@
+﻿1,Apple
+2,Huawei
+3,Xiaomi
+5,Toshiba
+6,Oneplus
+7,Samsung

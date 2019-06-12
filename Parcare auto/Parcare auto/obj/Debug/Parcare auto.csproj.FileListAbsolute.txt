@@ -1,0 +1,11 @@
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\bin\Debug\Parcare auto.exe.config
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\bin\Debug\Parcare auto.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\bin\Debug\Parcare auto.pdb
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare auto.csprojAssemblyReference.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare_auto.Form1.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare_auto.Form2.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare_auto.Properties.Resources.resources
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare auto.csproj.GenerateResource.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare auto.csproj.CoreCompileInputs.cache
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare auto.exe
+C:\Users\ioana\Desktop\AN 2\Sem 2\PAW\subiecte\rezolvari_eu\Parcare auto\Parcare auto\obj\Debug\Parcare auto.pdb

@@ -1,0 +1,6 @@
+Id - 1, model - LG G7, stoc disponibil - 20, pret - 2000, data aparitie - 25.06.2018, idProd - 387.
+Id - 2, model - IPhone X, stoc disponibil - 50, pret - 5000, data aparitie - 25.11.2018, idProd - 250.
+Id - 5, model - Google Pixel 3, stoc disponibil - 10, pret - 4500, data aparitie - 25.06.2018, idProd - 58.
+Id - 3, model - Huawei P20, stoc disponibil - 40, pret - 3000, data aparitie - 25.06.2018, idProd - 125.
+Id - 4, model - Huawei P30, stoc disponibil - 100, pret - 3500, data aparitie - 25.06.2018, idProd - 125.
+Id - 6, model - OnePlus 6, stoc disponibil - 25, pret - 2700, data aparitie - 25.06.2018, idProd - 410.

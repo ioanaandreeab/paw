@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Smartphone - 1, nume - Samsung S10, dimensiuni - 150g, pret - 4000 />
+  <Smartphone - 2, nume - Huawei P20, dimensiuni - 170g, pret - 3000 />
+  <Tablet - 3, nume - IPad pro, dimensiuni - 250 g, pret - 2500 />
+  <Tablet - 4, nume - Samsung pad, dimensiuni - 220 g, pret - 2000 />
+</Devices>
